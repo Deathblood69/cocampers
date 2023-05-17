@@ -6,6 +6,7 @@ function App() {
   return (
     <Grid
       container
+      direction={'column'}
       justifyContent={'center'}
       flex={'max-content'}
       align={'center'}
